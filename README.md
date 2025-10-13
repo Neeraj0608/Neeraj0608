@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![snake gif](https://github.com/Neeraj0608/Neeraj0608/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Neeraj0608/Neeraj0608/output/dist/snake-dark.svg#gh-dark-mode-only)
 <!--
 **Neeraj0608/Neeraj0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
