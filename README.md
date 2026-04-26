@@ -41,9 +41,6 @@
 
 
 ## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://media1.tenor.com/m/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" width="450"/>
-</p>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
