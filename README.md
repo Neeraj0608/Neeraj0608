@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Neeraj%20Gupta&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%26ML%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Neeraj Gupta</h1>
+<h3 align="center">AI&ML Engineer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=neeraj0608">
@@ -34,9 +35,9 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=neeraj0608&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Neeraj Gupta's GitHub Trophies" />
 </p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
 
 ## 🛠️ Languages & Tools
@@ -103,8 +104,12 @@
 
 ## 🔗 Connect with Me
 <p align="center">
+  <a href="https://www.linkedin.com/in/neeraj-gupta-7951932b4/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Neeraj Gupta's LinkedIn"/></a>&nbsp;&nbsp;
   <a href="mailto:neerajg0508@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Neeraj Gupta's Email"/></a>
 </p>
+
+## 💬 Quote
+> Complex problems don’t need more effort—they need better systems.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
@@ -115,3 +120,4 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
+
