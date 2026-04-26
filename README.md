@@ -41,7 +41,9 @@
 
 
 ## 🛠️ Languages & Tools
-<div class="tenor-gif-embed" data-postid="26214286" data-share-method="host" data-aspect-ratio="1.34454" data-width="100%"><a href="https://tenor.com/view/programmer-rounded-edges-gif-26214286">Programmer Rounded Edges GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://media1.tenor.com/m/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" width="450"/>
+</p>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
