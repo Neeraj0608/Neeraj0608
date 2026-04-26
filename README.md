@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Neeraj Gupta</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Neeraj Gupta</h1>
 <h3 align="center">AI&ML Engineer • Building Intelligent Systems • Full-Stack Developer</h3>
 
 <p align="center">
